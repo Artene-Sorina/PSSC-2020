@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Profile.Domain/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Profile.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Profile.Domain.dll": {}
+        }
+      },
+      "Question.Domain/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Question.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Question.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Profile.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Profile.Domain/Profile.Domain.csproj",
+      "msbuildProject": "../Profile.Domain/Profile.Domain.csproj"
+    },
+    "Question.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Question.Domain/Question.Domain.csproj",
+      "msbuildProject": "../Question.Domain/Question.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Profile.Domain >= 1.0.0",
+      "Question.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Sorina\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\SORI\\Facultate AC-IS\\Anul 4\\Semestrul I\\Proiectarea sistemelor software complexe PSSC\\Laborator\\L05\\Test.App\\Test.App.csproj",
+      "projectName": "Test.App",
+      "projectPath": "E:\\SORI\\Facultate AC-IS\\Anul 4\\Semestrul I\\Proiectarea sistemelor software complexe PSSC\\Laborator\\L05\\Test.App\\Test.App.csproj",
+      "packagesPath": "C:\\Users\\Sorina\\.nuget\\packages\\",
+      "outputPath": "E:\\SORI\\Facultate AC-IS\\Anul 4\\Semestrul I\\Proiectarea sistemelor software complexe PSSC\\Laborator\\L05\\Test.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Sorina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "E:\\SORI\\Facultate AC-IS\\Anul 4\\Semestrul I\\Proiectarea sistemelor software complexe PSSC\\Laborator\\L05\\Profile.Domain\\Profile.Domain.csproj": {
+              "projectPath": "E:\\SORI\\Facultate AC-IS\\Anul 4\\Semestrul I\\Proiectarea sistemelor software complexe PSSC\\Laborator\\L05\\Profile.Domain\\Profile.Domain.csproj"
+            },
+            "E:\\SORI\\Facultate AC-IS\\Anul 4\\Semestrul I\\Proiectarea sistemelor software complexe PSSC\\Laborator\\L05\\Question.Domain\\Question.Domain.csproj": {
+              "projectPath": "E:\\SORI\\Facultate AC-IS\\Anul 4\\Semestrul I\\Proiectarea sistemelor software complexe PSSC\\Laborator\\L05\\Question.Domain\\Question.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Profile.Domain is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project Profile.Domain supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Profile.Domain",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Question.Domain is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project Question.Domain supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Question.Domain",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

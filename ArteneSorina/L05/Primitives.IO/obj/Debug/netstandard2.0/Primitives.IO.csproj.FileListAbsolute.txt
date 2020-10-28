@@ -1,0 +1,9 @@
+E:\Poli\AN 4\PSSC\L01\PSSC-2020\BoncilăDariusLorenzo\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.deps.json
+E:\Poli\AN 4\PSSC\L01\PSSC-2020\BoncilăDariusLorenzo\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.dll
+E:\Poli\AN 4\PSSC\L01\PSSC-2020\BoncilăDariusLorenzo\L05\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.pdb
+E:\Poli\AN 4\PSSC\L01\PSSC-2020\BoncilăDariusLorenzo\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csprojAssemblyReference.cache
+E:\Poli\AN 4\PSSC\L01\PSSC-2020\BoncilăDariusLorenzo\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.CoreCompileInputs.cache
+E:\Poli\AN 4\PSSC\L01\PSSC-2020\BoncilăDariusLorenzo\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfoInputs.cache
+E:\Poli\AN 4\PSSC\L01\PSSC-2020\BoncilăDariusLorenzo\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfo.cs
+E:\Poli\AN 4\PSSC\L01\PSSC-2020\BoncilăDariusLorenzo\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.dll
+E:\Poli\AN 4\PSSC\L01\PSSC-2020\BoncilăDariusLorenzo\L05\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.pdb
